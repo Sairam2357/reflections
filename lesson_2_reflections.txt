@@ -8,14 +8,20 @@ it offers a great value since commit can be created or not is decided at this st
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+by using git status the present situation of the file is understood.this helps us in adding file to staging area and carying out git add.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+when we have to make not so significant changes we can use branches for our path to keep temporary status.they can help us in streamlining unimportant commits which can be used for our personal use.
 
 How do the diagrams help you visualize the branch structure?
+it helps us to know which commits are in which branch and help us visualise the parent structure.if there are any commits with branch name,this diagram helps us understanding it.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+it makes a single streamline flow.since graphical representation can be analysed more easily.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic merging may not produce desired results and not preferable.
+manual merging may lead to frustation but it is the way to obtain desired results.
